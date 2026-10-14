@@ -4,12 +4,6 @@ int main(){
     int number;
     int number1;
 
-    float addition;
-    float subtraction;
-    float multiplication;
-    float division;
-
-
     printf("Enter First Number: ");
     scanf("%d", &number);
 
